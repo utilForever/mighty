@@ -1,2 +1,2 @@
 # Almighty
-Mighty simulator using C++ with some reinforcement learning
+Mighty simulator using Rust with some reinforcement learning
